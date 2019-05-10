@@ -2,6 +2,20 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <FileVersion>0.1.0.0</FileVersion>
+    <Authors>bertuzzi</Authors>
+    <Company>KBits</Company>
+    <Description>Conversor de Xml em Objetos para Danfe</Description>
+    <Copyright>Copyright 2019</Copyright>
+    <PackageLicenseUrl>http://opensource.org/licenses/MS-PL</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/TBertuzzi/Danfe</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/TBertuzzi/Danfe/blob/master/Resources/danfeIcone.png?raw=true</PackageIconUrl>
+    <RepositoryUrl>https://github.com/TBertuzzi/Danfe</RepositoryUrl>
+    <PackageTags>netcore netstandard danfe xml xamarin conversor</PackageTags>
+    <PackageReleaseNotes>Versão Inicial</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
