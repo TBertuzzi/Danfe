@@ -9,7 +9,7 @@ Obtenha as informações de uma Danfe através do XML
 * Xamarin
 * Xamarin.Forms
 
-[![NuGet](https://buildstats.info/nuget/Danfe)](https://www.nuget.org/packages/Danfe/)|
+[![NuGet](https://buildstats.info/nuget/Danfe)](https://www.nuget.org/packages/Danfe/)
 
 Exemplo
 
